@@ -1,0 +1,237 @@
+{
+  "$comment": "Verbatim mirror. `md5` is as supplied by Figshare and is recorded for transport integrity only — it is not evidence of authenticity. Verify against `sha256`, which was computed locally from the downloaded bytes.",
+  "repo": "hikspoors-2021-stage-pdfs",
+  "title": "Hikspoors et al. 2021 — whole-embryo interactive 3D-PDFs, twelve stages",
+  "doi": "10.6084/m9.figshare.17033156",
+  "licence": "CC BY 4.0",
+  "spdxLicenceId": "CC-BY-4.0",
+  "attribution": "Hikspoors, Jill P. J. M., and colleagues",
+  "citation": "Hikspoors JPJM et al. (2021), supplemental material. Deposited as twelve separate Figshare items, one per Carnegie stage.",
+  "modified": false,
+  "mirroredAt": "2026-11-20T20:34:44.047Z",
+  "sourceArticles": [
+    {
+      "id": 17033156,
+      "doi": "10.6084/m9.figshare.17033156.v1",
+      "title": "Supplemental Figure 1 Carnegie Stage 9",
+      "licenceAtMirrorTime": "CC BY 4.0"
+    },
+    {
+      "id": 17033189,
+      "doi": "10.6084/m9.figshare.17033189.v3",
+      "title": "Supplemental Figure 2 Carnegie Stage 10",
+      "licenceAtMirrorTime": "CC BY 4.0"
+    },
+    {
+      "id": 17033249,
+      "doi": "10.6084/m9.figshare.17033249.v1",
+      "title": "Supplemental Figure 3 Carnegie Stage 11",
+      "licenceAtMirrorTime": "CC BY 4.0"
+    },
+    {
+      "id": 17033252,
+      "doi": "10.6084/m9.figshare.17033252.v1",
+      "title": "Supplemental Figure 4 Carnegie Stage 12",
+      "licenceAtMirrorTime": "CC BY 4.0"
+    },
+    {
+      "id": 17033255,
+      "doi": "10.6084/m9.figshare.17033255.v1",
+      "title": "Supplemental Figure 5 Carnegie Stage 13",
+      "licenceAtMirrorTime": "CC BY 4.0"
+    },
+    {
+      "id": 17085503,
+      "doi": "10.6084/m9.figshare.17085503.v1",
+      "title": "Supplemental Figure 6 Carnegie Stage 14",
+      "licenceAtMirrorTime": "CC BY 4.0"
+    },
+    {
+      "id": 17085506,
+      "doi": "10.6084/m9.figshare.17085506.v1",
+      "title": "Supplemental Figure 7 Carnegie Stage 15",
+      "licenceAtMirrorTime": "CC BY 4.0"
+    },
+    {
+      "id": 17085509,
+      "doi": "10.6084/m9.figshare.17085509.v1",
+      "title": "Supplemental Figure 8 Carnegie Stage 16",
+      "licenceAtMirrorTime": "CC BY 4.0"
+    },
+    {
+      "id": 17085512,
+      "doi": "10.6084/m9.figshare.17085512.v1",
+      "title": "Supplemental Figure 9 Carnegie Stage 17",
+      "licenceAtMirrorTime": "CC BY 4.0"
+    },
+    {
+      "id": 17085515,
+      "doi": "10.6084/m9.figshare.17085515.v1",
+      "title": "Supplemental Figure 10 Carnegie Stage 18",
+      "licenceAtMirrorTime": "CC BY 4.0"
+    },
+    {
+      "id": 17085521,
+      "doi": "10.6084/m9.figshare.17085521.v1",
+      "title": "Supplemental Figure 11 Carnegie Stage 20",
+      "licenceAtMirrorTime": "CC BY 4.0"
+    },
+    {
+      "id": 17085524,
+      "doi": "10.6084/m9.figshare.17085524.v1",
+      "title": "Supplemental Figure 12 Carnegie Stage 23",
+      "licenceAtMirrorTime": "CC BY 4.0"
+    },
+    {
+      "id": 17033225,
+      "doi": "10.6084/m9.figshare.17033225.v1",
+      "title": "instruction video interactive 3D-PDF",
+      "licenceAtMirrorTime": "CC BY 4.0"
+    }
+  ],
+  "files": [
+    {
+      "path": "data/CS09.pdf",
+      "originalName": "Suppl Figure 1_Carnegie Stage 9.pdf",
+      "articleId": 17033156,
+      "size": 4295070,
+      "sha256": "b0ed00e67f4eb38757556d2a673540dff8bbba64abc4255f1263e49d0e54a542",
+      "md5": "4ada57015e69ff2b2acd631d11786abb",
+      "md5MatchedFigshare": true,
+      "releaseAsset": false,
+      "downloadUrl": "https://ndownloader.figshare.com/files/31506758"
+    },
+    {
+      "path": "data/CS10.pdf",
+      "originalName": "Suppl Figure 2_Carnegie Stage 10.pdf",
+      "articleId": 17033189,
+      "size": 3758144,
+      "sha256": "bd4e179296019c7db425d3903ac7f6c816ffc6c50af77bbf2d6b3a55726e8d19",
+      "md5": "f8ec4645e0d29e235cb0e5f168621312",
+      "md5MatchedFigshare": true,
+      "releaseAsset": false,
+      "downloadUrl": "https://ndownloader.figshare.com/files/31507406"
+    },
+    {
+      "path": "data/CS11.pdf",
+      "originalName": "Suppl Figure 3_Carnegie Stage 11.pdf",
+      "articleId": 17033249,
+      "size": 3541827,
+      "sha256": "7d4a487aa346570803ecf9ca5941870671f88f27e65e6ac06199fc4b19e8fd84",
+      "md5": "85812c65607c9b6bbd8d354384f9a4b8",
+      "md5MatchedFigshare": true,
+      "releaseAsset": false,
+      "downloadUrl": "https://ndownloader.figshare.com/files/31508078"
+    },
+    {
+      "path": "data/CS12.pdf",
+      "originalName": "Suppl Figure 4_Carnegie Stage 12.pdf",
+      "articleId": 17033252,
+      "size": 9455318,
+      "sha256": "f20c5516b4d7d647cd518dc98ba3998fe16c9a76108bc2819fac6e312191e0c6",
+      "md5": "1077e824196ef1d5599556fe483e25ba",
+      "md5MatchedFigshare": true,
+      "releaseAsset": false,
+      "downloadUrl": "https://ndownloader.figshare.com/files/31508102"
+    },
+    {
+      "path": "data/CS13.pdf",
+      "originalName": "Suppl Figure 5_Carnegie Stage 13.pdf",
+      "articleId": 17033255,
+      "size": 6300650,
+      "sha256": "f56c9a711ea1c83d15ed8b2841da887c06c4c92a94357c0b3795e3f009f01d58",
+      "md5": "d223bcb334af0e78e8f97bd22b2edead",
+      "md5MatchedFigshare": true,
+      "releaseAsset": false,
+      "downloadUrl": "https://ndownloader.figshare.com/files/31508135"
+    },
+    {
+      "path": "data/CS14.pdf",
+      "originalName": "Suppl Figure 6_Carnegie Stage 14.pdf",
+      "articleId": 17085503,
+      "size": 11704431,
+      "sha256": "dc65a6da632670785992c449a207b3fca8750b9878695d040d8ee111652c8952",
+      "md5": "05500808bfca439d392ad15c04ab41df",
+      "md5MatchedFigshare": true,
+      "releaseAsset": false,
+      "downloadUrl": "https://ndownloader.figshare.com/files/31590506"
+    },
+    {
+      "path": "data/CS15.pdf",
+      "originalName": "Suppl Figure 7_Carnegie Stage 15.pdf",
+      "articleId": 17085506,
+      "size": 12298998,
+      "sha256": "642c1299f7ea4b4d199579a9a76ebc1a74574ad8424c38adbaf9ae505eba4a1a",
+      "md5": "afd3403ca9f0aa50c8879ef3949f45c9",
+      "md5MatchedFigshare": true,
+      "releaseAsset": false,
+      "downloadUrl": "https://ndownloader.figshare.com/files/31590512"
+    },
+    {
+      "path": "data/CS16.pdf",
+      "originalName": "Suppl Figure 8_Carnegie Stage 16.pdf",
+      "articleId": 17085509,
+      "size": 15245794,
+      "sha256": "9752e018f5c787c3b9b475ab8c114263b58482d49de60162afe54d2eeac97de1",
+      "md5": "411b2b9877bcb80f56836354fee64da8",
+      "md5MatchedFigshare": true,
+      "releaseAsset": false,
+      "downloadUrl": "https://ndownloader.figshare.com/files/31590515"
+    },
+    {
+      "path": "data/CS17.pdf",
+      "originalName": "Suppl Figure 9_Carnegie Stage 17.pdf",
+      "articleId": 17085512,
+      "size": 14825109,
+      "sha256": "e85ae605337f822d1eabc1f02266fd8e538784959c35d0ff658c196f142d42a7",
+      "md5": "42a85bfbfa670c11f8037680f38deaa0",
+      "md5MatchedFigshare": true,
+      "releaseAsset": false,
+      "downloadUrl": "https://ndownloader.figshare.com/files/31590518"
+    },
+    {
+      "path": "data/CS18.pdf",
+      "originalName": "Suppl Figure 10_Carnegie Stage 18.pdf",
+      "articleId": 17085515,
+      "size": 26699970,
+      "sha256": "c30add6d2504c1ea63ed6bf6077cc3b8237a27233ec29edb6a6ee9ff8ef0f13e",
+      "md5": "f474b52349edad4a5cfd06f98cf997af",
+      "md5MatchedFigshare": true,
+      "releaseAsset": false,
+      "downloadUrl": "https://ndownloader.figshare.com/files/31590524"
+    },
+    {
+      "path": "data/CS20.pdf",
+      "originalName": "Suppl Figure 11_Carnegie Stage 20.pdf",
+      "articleId": 17085521,
+      "size": 12273690,
+      "sha256": "a6294816497c51a3d834d7153311822bc170e46c70b575b0efc20253ea60ded1",
+      "md5": "e4b446e1e0f5895494eb43650bfb9911",
+      "md5MatchedFigshare": true,
+      "releaseAsset": false,
+      "downloadUrl": "https://ndownloader.figshare.com/files/31590527"
+    },
+    {
+      "path": "data/CS23.pdf",
+      "originalName": "Suppl Figure 12_Carnegie Stage 23.pdf",
+      "articleId": 17085524,
+      "size": 12403390,
+      "sha256": "5fb8f33a11ef3a20cd311080b0734d98cd6457a2e598a9b6ef3753fa9b695ab8",
+      "md5": "5482fba3371ee01a48c095c80565284b",
+      "md5MatchedFigshare": true,
+      "releaseAsset": false,
+      "downloadUrl": "https://ndownloader.figshare.com/files/31590530"
+    },
+    {
+      "path": "data/instruction-video.mp4",
+      "originalName": "3Dpdf_instruction_video.mp4",
+      "articleId": 17033225,
+      "size": 1896919,
+      "sha256": "034898bc42991ee4694d691c6c40c13498bc6ce3a30ce04da892778c97858a02",
+      "md5": "7d24fe37f0279e26b8c352dacb5e03ad",
+      "md5MatchedFigshare": true,
+      "releaseAsset": false,
+      "downloadUrl": "https://ndownloader.figshare.com/files/31507823"
+    }
+  ]
+}
