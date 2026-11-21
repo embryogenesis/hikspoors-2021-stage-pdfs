@@ -14,7 +14,7 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); see [`
 
 ## What this is
 
-Interactive 3D-PDFs at Carnegie stages 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 20 and 23 — whole embryo rather than one organ system, which makes this the more valuable of the two deposits in the long run. Twelve licences were checked individually; all twelve are CC BY 4.0.
+Interactive 3D-PDFs of whole human embryos at Carnegie stages 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 20 and 23, covering multiple organ systems per stage rather than one. Deposited as twelve separate Figshare items; the licence of each was checked individually and all twelve are CC BY 4.0.
 
 ## Contents
 
@@ -40,8 +40,8 @@ Full checksums, original filenames and the source article id for every file are 
 
 ## Notes for anyone using this
 
-- The geometry is a Flate-compressed U3D stream inside each PDF. Extraction was tested on the stage-13 item: 5.06 MB compressed, 9.47 MB decoded, valid `U3D\0` magic, 219 blocks parsed, roughly 37 materials. So the geometry is genuinely there and genuinely usable.
-- U3D stores progressive CLOD meshes in range-coded bitstreams. Writing a decoder is a project in itself, not an afternoon. Until one exists, the immediately useful path is to open them in a reader and measure.
+- The geometry is a Flate-compressed U3D stream embedded in each PDF. Verified on the stage-13 item: 5.06 MB compressed, 9.47 MB decoded, valid `U3D\0` magic, 219 blocks, approximately 37 materials.
+- U3D stores progressive continuous-level-of-detail meshes in range-coded bitstreams, so extracting vertex data requires a full U3D decoder. Without one, the files remain usable by opening them in a PDF reader that supports embedded 3D and taking measurements there.
 - Deposited as twelve separate articles, so the mirror flattens them into one repository with stage-named files. The original article id is recorded per file in MANIFEST.json.
 - The instruction video is the depositor's own and is included because it documents the intended use of the 3D-PDFs.
 
@@ -54,4 +54,4 @@ python3 -c "import json,hashlib,pathlib;m=json.load(open('MANIFEST.json'));[prin
 
 ---
 
-Mirrored 2026-11-20 by `tools/mirror.ts` in the atlas repository, which re-verifies the licence of every article against the live Figshare metadata before downloading anything and aborts on a mismatch.
+Mirrored 2026-11-21 by `tools/mirror.ts` from [embryogenesis](https://github.com/embryogenesis/embryogenesis). The licence of each source article was checked against the live Figshare metadata before download.
